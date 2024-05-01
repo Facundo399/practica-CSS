@@ -1,0 +1,44 @@
+*{
+	margin:0;
+ padding:0;
+}
+body{
+	background: aqua;
+	color:white;
+	font-size: 16px;
+}
+header{
+	background: greenyellow;
+	border:5px solid black;
+}
+h1 {
+	text-align: center;
+	background: greenyellow;
+	color: black;
+	font-size: 3em;
+	margin:10px ;
+	
+} 
+li{
+	margin:40px;
+	height:20px;
+	display: inline-block;
+}
+main{
+	text-align: center;
+	border:5px solid black;
+}
+main h2,h3,h4 {
+	background: purple;
+}	
+footer{
+
+	border:5px solid black;
+	background: red;
+}
+p{
+	color:black;
+}
+
+
+
